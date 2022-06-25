@@ -6,3 +6,7 @@ Hola esta es la primera alteración del documento
 
 
 Este es la segunda alteración del documento
+
+
+Hola, esta alteracion fue hecha por otro colaborador
+
